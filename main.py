@@ -17,8 +17,8 @@ def hello():
     print("Hello Abhishek")
 
 
-t1 = Thread(target=infinite_loop)
-t2 = Thread(target=hello)
+# t1 = Thread(target=infinite_loop)
+# t2 = Thread(target=hello)
 
-t1.start()
-t2.start()
+# t1.start()
+# t2.start()
